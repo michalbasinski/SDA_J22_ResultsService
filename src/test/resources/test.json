@@ -1,0 +1,17 @@
+{
+  "electionId" : 1,
+  "listVotes": [
+    {
+      "listId": 1,
+      "votes": 100
+    },
+    {
+      "listId": 2,
+      "votes": 300
+    },
+    {
+      "listId": 3,
+      "votes": 200
+    }
+  ]
+}
